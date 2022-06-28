@@ -1,4 +1,4 @@
-# HERMES
+# HermEs
 
 Demo video for hierarchcial formula expansion. Only serves for anonymous paper submission.
 
